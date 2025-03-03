@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
     setTitle("Love Celebration");
     setLayout(new BorderLayout());
     setContentPane(new JLabel(new ImageIcon("C:\\Users\\TeeKingTV.Com\\Downloads\\love2.gif")));
-    lblText=new JLabel("<html><p style='color:rgb(255, 16, 68); font-family:algerian; font-size:30pt'>I LOVE YOU, YASHIKAAA!</p></html>");
+    lblText=new JLabel("<html><p style='color:rgb(255, 16, 68); font-family:algerian; font-size:30pt'>I LOVE YOU, POOKIE!</p></html>");
     lblText.setSize(600,70);
     setSize(800,500);
     setResizable(true);
